@@ -14,3 +14,6 @@ udio (AI Music)> https://www.udio.com
 audacity> https://www.audacityteam.org
 readme> https://github.com/kefranabg/readme-md-generator
 github desktop> https://desktop.github.com/download/
+
+tutorial:
+https://lemmasoft.renai.us/forums/viewtopic.php?t=25855
