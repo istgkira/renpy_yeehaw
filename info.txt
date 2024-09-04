@@ -1,11 +1,13 @@
 tasks:
-,vytvorit charaktery
-,vytvorit sceny
-,vytvorit muziku
-,zacit psat kod
-,vytvorit hlas charakteru
+*vytvorit charaktery
+*vytvorit sceny/img
+*vytvorit muziku/ai music nebo free music
+*zacit psat kod
+*vytvorit hlas charakteru
 
 links:
 git> https://git-scm.com/downloads
 renpy> https://www.renpy.org
 aseprite> https://www.aseprite.org
+udio (AI Music)> https://www.udio.com
+audacity> https://www.audacityteam.org
