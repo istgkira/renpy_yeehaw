@@ -13,3 +13,4 @@ aseprite> https://www.aseprite.org
 udio (AI Music)> https://www.udio.com
 audacity> https://www.audacityteam.org
 readme> https://github.com/kefranabg/readme-md-generator
+github desktop> https://desktop.github.com/download/
