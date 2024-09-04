@@ -4,6 +4,7 @@ tasks:
 *vytvorit muziku/ai music nebo free music
 *zacit psat kod
 *vytvorit hlas charakteru
+*vytvorit story
 
 links:
 git> https://git-scm.com/downloads
