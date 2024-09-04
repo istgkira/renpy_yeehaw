@@ -1,6 +1,6 @@
 tasks:
-*vytvorit charaktery
-*vytvorit sceny
+,vytvorit charaktery
+,vytvorit sceny
 *vytvorit muziku
 *zacit psat kod
 *vytvorit hlas charakteru
