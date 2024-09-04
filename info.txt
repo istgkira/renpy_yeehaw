@@ -6,6 +6,7 @@ tasks:
 *vytvorit hlas charakteru
 *vytvorit story
 
+halo halo 
 links:
 git> https://git-scm.com/downloads
 renpy> https://www.renpy.org
