@@ -1,14 +1,9 @@
-﻿# The script of the game goes in this file.
-
-# Declare characters used by this game. The color argument colorizes the
-# name of the character.
-
+﻿#Charakteri
 define k = Character("Clara")
 define l = Character("Lucas")
 
 
-# The game starts here.
-
+#Start hry
 label start:
 
     # Show a background. This uses a placeholder by default, but you can
