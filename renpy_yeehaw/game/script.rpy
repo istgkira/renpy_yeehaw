@@ -1,5 +1,5 @@
 ﻿#Charakteri
-define k = Character("Clara")
+define c = Character("Clara")
 define l = Character("Lucas")
 define t = Character("Terry")
 
@@ -10,8 +10,8 @@ label start:
 
     show eileen happy
 
-    e "You've created a new Ren'Py game."
+    c "bruh bruh"
 
-    e "Once you add a story, pictures, and music, you can release it to the world!"
+    l "skibidi"
 
     return
