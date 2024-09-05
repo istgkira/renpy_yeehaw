@@ -1,7 +1,7 @@
 ﻿#Charakteri
 define k = Character("Clara")
 define l = Character("Lucas")
-
+define t = Character("Terry")
 
 #Start hry
 label start:
