@@ -1,2 +1,2 @@
-#main menu song
-define main_menu = "\sound\mainmenu.ogg"
+#test 
+define amogus = "audio/amogus.ogg"

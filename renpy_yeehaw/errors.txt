@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 15: end of line expected.
+    l "skibidi"3
+               ^
+
+Ren'Py Version: Ren'Py 8.3.0.24082114
+Fri Sep  6 16:42:07 2024
