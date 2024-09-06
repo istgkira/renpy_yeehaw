@@ -44,7 +44,7 @@ init python:
 
 #Charakteri
 define c = Character("Clara", callback=clara_voice) #50/50 clovek, hodna nebo zla
-define l = Character("Lucas") #sans
+define l = Character("Lucas", what_font="fonts/HelpMe.ttf") #sans
 define t = Character("Terry") #
 define a = Character("Andrea") #drama club, autism, goofy
 define s = Character("Sarah") #backstab, evil
@@ -61,6 +61,6 @@ label start:
     show eileen happy
 
     c "fuhwfiuhweiuf huiewfh uiewhfui ehuiehfi uhewuifh uuiew fhiu ehewfuhewiuf hu"
-    l "skibidi"
+    l "{size=+20}DIE DIE DIE.."
 
     return
