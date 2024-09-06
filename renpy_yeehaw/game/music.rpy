@@ -1,1 +1,2 @@
-define main_menu_music = renpy_yeehaw\game\music\insert a coin to play....mp3
+#main menu song
+define main_menu = "\sound\mainmenu.ogg"
