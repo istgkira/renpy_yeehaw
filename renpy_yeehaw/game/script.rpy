@@ -51,6 +51,8 @@ define s = Character("Sarah") #backstab, evil
 define d = Character("Daniel") #fuckboy 
 define n = Character("Nela") #hodna af
 
+style default:
+    #shaders maybe
 
 #Start hry
 label start:
