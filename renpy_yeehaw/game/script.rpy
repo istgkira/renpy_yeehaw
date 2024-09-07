@@ -61,7 +61,7 @@ label start:
     show eileen happy
 
     c "fuhwfiuhweiuf huiewfh uiewhfui ehuiehfi uhewuifh uuiew fhiu ehewfuhewiuf hu"
-    l "{size=+20}D I E..  D I E..  D I E.."
+    l "{size=+20}{color=#f00}D I E..  D I E..  D I E..{/color}"
 
 
     return
