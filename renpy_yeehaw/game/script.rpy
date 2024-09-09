@@ -50,6 +50,8 @@ define a = Character("Andrea") #drama club, autism, goofy
 define s = Character("Sarah") #backstab, evil
 define d = Character("Daniel") #fuckboy 
 define n = Character("Nela") #hodna af
+define m = Character("Monstrum", what_font="fonts/HelpMe.ttf")
+
 
 style default:
     #shaders maybe
